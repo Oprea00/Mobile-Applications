@@ -1,0 +1,26 @@
+[
+   {
+    "id": "1",
+    "title": "TENET",
+    "director": "Nolan",
+    "year": 2020,
+    "genre": "action",
+    "stars": "Robert Pattinson",
+    "favourite": "Washington",
+    "quotes": " ",
+    "rating": 9,
+    "opinion": "maybe too complicated"
+   },
+   {
+    "id": "2",
+    "title": "The Devil All the Time",
+    "director": "nuj",
+    "year": 2020,
+    "genre": "drama | thriller",
+    "stars": "Robert Pattinson, Tom Halland, Skarskar",
+    "favourite": "the boy",
+    "quotes": "DELUSION",
+    "rating": 9,
+    "opinion": "maybe too complicated"
+   }
+]
